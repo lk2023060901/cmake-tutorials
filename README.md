@@ -1,1 +1,1 @@
-This is a CMake tutorials repository. You can find some CMake useful information. For example, build a executable program, static library, find library and so on. That's be fun. Welcome to study ing here.
+This is a CMake tutorials repository. You can find some CMake useful information. For example, build a executable program, static library, find library and so on. That's be fun. Welcome to studying here.
